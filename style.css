@@ -12,22 +12,34 @@ h1{
 .cuadro1{
     background-color: blueviolet;
     color: white;
-    padding: 20px;
-    height: 100px;
-    width: 200px;
-    margin: 0 0 25px
+    box-shadow: 1px 10px 50px gray;
+    font-weight: 500;
+    padding: 30px;
+    height: 115px;
+    width: 220px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
     
-
-
 }
 
 .cuadro2{
-    background-color: palevioletred;
-    padding: 30px;
-    height: 100px;
-    width: 200px;
+    background-color: fuchsia;
     color: white;
-    margin: 0 0 25px
-    
+    box-shadow: 1px 10px 50px gray;
+    font-weight: 500;
+    padding: 30px;
+    height: 115px;
+    width: 220px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cerrarSesion{
+    text-align: center;
+    font-weight: 500;
+    margin-top: 50px;
+    color: rgb(224, 68, 94);
 
 }
